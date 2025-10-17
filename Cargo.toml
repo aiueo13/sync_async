@@ -6,6 +6,7 @@ license = "MIT OR Apache-2.0"
 authors = ["OkaYu"]
 readme = "README.md"
 repository = "https://github.com/aiueo13/sync_async"
+description = "A helper for implementing both sync and async APIs."
 
 [lib]
 proc-macro = true
